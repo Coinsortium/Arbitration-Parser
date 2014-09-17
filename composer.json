@@ -1,6 +1,5 @@
 {
     "name": "coinsortium/arbitration-parser",
-    "version": "1.0.0",
     "repositories": [
         {
             "type": "vcs",
