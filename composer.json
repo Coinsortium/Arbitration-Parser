@@ -1,5 +1,14 @@
 {
+    "name": "coinsortium/arbitration-parser",
+    "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Coinsortium/Arbitration-Parser"
+        }
+    ],
     "require": {
+        "coinsortium/arbitration-parser": "dev-master",
         "smalot/pdfparser": "*"
     }
 }
